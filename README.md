@@ -35,17 +35,17 @@ TBW
 ## コード譜
 ```
 イントロ&間奏
-/C9 C CM7 C/ * 4
+/D9 D DM7 D/ * 4
 
 Aメロ
-/C9/C9/C/C/Am/Am/Am7/Am7/F/F/G/G
+/D9/D9/D/D/Bm/Bm/Bm7/Bm7/G/G/A/A
 
 Bメロ
-/F/G/Em/Am/F/G/Am/Am
-/F/G/Em/Am/F/F/Gsus4/G
+/G/A/F#m/Bm/G/A/Bm/Bm
+/G/A/F#m/Bm/G/G/Asus4/A
 
 サビ
-/C/C/Am/Am/F/F/G/G/C/C/Am/Am/F/C/F/G
+/D/D/Bm/Bm/G/G/A/A/D/D/Bm/Bm/G/D/G/A
 ```
 
 ## LICENSE
