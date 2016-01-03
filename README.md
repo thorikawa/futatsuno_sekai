@@ -33,10 +33,23 @@ TBW
 ```
 
 ## コード譜
-TBW
+```
+イントロ&間奏
+/C9 C CM7 C/ * 4
+
+Aメロ
+/C9/C9/C/C/Am/Am/Am7/Am7/F/F/G/G
+
+Bメロ
+/F/G/Em/Am/F/G/Am/Am
+/F/G/Em/Am/F/F/Gsus4/G
+
+サビ
+/C/C/Am/Am/F/F/G/G/C/C/Am/Am/F/C/F/G
+```
 
 ## LICENSE
-Copyright (C) 2015 Takahiro Horikawa All Rights Reserved.<br />
+Copyright (C) 2015-2016 Takahiro Horikawa All Rights Reserved.<br />
 CC Attribution-ShareAlike 2.0 Japan (CC BY-SA 2.0 JP)<br />
 クリエイティブ・コモンズ 表示 - 継承 2.0 日本 (CC BY-SA 2.0 JP)<br />
 <a href="https://creativecommons.org/licenses/by-sa/2.0/jp/"><img src="https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=300&h=104"></a>
